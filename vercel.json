@@ -1,8 +1,9 @@
- {
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
   "redirects": [
     {
       "source": "/",
-      "destination": "https://github.com/novatorem/novatorem"
+      "destination": "https://github.com/Diegomcha/spotify-diegomcha"
     }
   ]
 }
